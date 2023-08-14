@@ -5,4 +5,5 @@ Projeto de Iniciação Científica financiado pela FAPESP (2021-2023)
   - Autoencoder: todos os modelos de autoencoder desenvolvidos para testes
   - MINAS: Reprodução do algoritmo MINAS
   - RBM: todos os modelos de RBM desenvolvidos para testes
+    
 -> PAPERS: Pasta com artigos base para o projeto
